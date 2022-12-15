@@ -23,22 +23,22 @@ global.sgc = "github.com/Sparkymon777/SPARKY-BOT-MD" //ganti group lu
 global.location = "Kerala,TVM,Varkala" //ganti lokasi lu
 
 //bot bomdy 
-global.owner = ['917012984396'] //ur number
-global.ownernomer = "917012984396" //ur number
-global.ownertag = '917012984396' //ur tag number
-global.premium = ['917012984396'] //ur premium number
-global.botname = 'SPARKY MD+' //ur bot name
-global.ownername = "ASWIN SPARKY"
-global.linkz = "https://youtube.com/@sparkymon777" //your theme url which will be displayed on whatsapp
-global.dana = "917012984396"
-global.pulsa = "917012984396"
-global.websitex = "https://youtube.com/@sparkymon777" //ur website to be displayed
-global.websitex1 = "https://sparkymodswa.blogspot.com"
+global.owner = ['919048246113'] //ur number
+global.ownernomer = "919048246113" //ur number
+global.ownertag = '919048246113' //ur tag number
+global.premium = ['919048246113'] //ur premium number
+global.botname = 'KICHUANIL.EFX' //ur bot name
+global.ownername = "KICHUANILEFX"
+global.linkz = "https://linktr.ee/kichuanil.efx" //your theme url which will be displayed on whatsapp
+global.dana = "919048246113"
+global.pulsa = "91904824113"
+global.websitex = "https://youtube.com/@KICHUZBGMS" //ur website to be displayed
+global.websitex1 = "https://instagram.com/kichuanil.efx_?igshid=YmMyMTA2M2Y="
 global.botscript = 'https://github.com/Sparkymon777/SPARKY-BOT-MD' //script link
 global.themeemoji = "👀" //ur theme emoji
-global.packname = "S P A R K Y" //ur sticker watermark packname
-global.author = "ASWIN" //ur sticker watermark author
-global.wm = "S P A R K Y" //ur watermark
+global.packname = "Kichuanil.efx" //ur sticker watermark packname
+global.author = "ABHIMANYU.A.R" //ur sticker watermark author
+global.wm = "ABHIMANYU. A. R" //ur watermark
 
 // Other
 global.sessionName = 'session'
